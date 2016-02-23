@@ -1,0 +1,28 @@
+.container {
+  width: 500px;
+  margin: 50px auto;
+  background-color: papayawhip;
+  border-radius: 10px;
+}
+.title {
+  text-align: center;
+  margin: 30px 0;
+  color: coral;
+}
+.title h1 {
+  font-size: 50px;
+}
+.temp {
+  margin: 50px 0;
+  font-size: 25px;
+  color: coral;
+  text-align: center;
+}
+#unit {
+  padding: 0;
+  border: none;
+  background: none;
+  outline: none;
+  color: darkolivegreen;
+  font-weight: bold;
+}
